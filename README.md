@@ -1,7 +1,7 @@
 
 # Hangman
 
-The main function of this program is to play a game of hangman. It uses a struct called "Game" to store variables related to the game such as the number of lives left, the current status of the guessing letters, and the word to guess. The program uses several functions to perform different tasks in the game.
+The main goal of this program is to play a game of hangman. It uses a struct called "Game" to store variables related to the game such as the number of lives left, the current status of the guessing letters, and the word to guess. The program uses several functions to perform different tasks in the game.
 
 Following libraries need to be linked to the application:
 
