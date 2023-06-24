@@ -1,0 +1,10 @@
+ninja
+spider
+bird
+turtle
+apple
+pen
+ball
+chess
+backpack
+newspaper
